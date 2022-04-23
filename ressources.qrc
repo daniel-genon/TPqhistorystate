@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>general/quitter.png</file>
+        <file>motif/main1.png</file>
+        <file>motif/fond1.png</file>
+        <file>general/configuration.png</file>
+        <file>general/apropos.png</file>
+        <file>general/ouvert.png</file>
+        <file>general/ferme.png</file>
+        <file>motif/bleue.png</file>
+        <file>motif/jaune.png</file>
+        <file>motif/rouge.png</file>
+        <file>motif/verte.png</file>
+        <file>general/pause1.png</file>
+        <file>general/pause2.png</file>
+        <file>general/pause3.png</file>
+        <file>general/pause4.png</file>
+        <file>motif/cb01.png</file>
+        <file>motif/cb02.png</file>
+        <file>motif/cb03.png</file>
+        <file>motif/cb04.png</file>
+        <file>motif/cb05.png</file>
+        <file>motif/cb06.png</file>
+        <file>motif/cible.png</file>
+        <file>motif/declencheur.png</file>
+        <file>motif/bciel.png</file>
+        <file>motif/mauve.png</file>
+        <file>motif/carre.png</file>
+        <file>motif/cercle.png</file>
+        <file>motif/hexagone.png</file>
+        <file>motif/triangle.png</file>
+        <file>general/pause5.png</file>
+        <file>general/pause6.png</file>
+        <file>motif/neutre.png</file>
+        <file>motif/bfonc.png</file>
+        <file>motif/briqu.png</file>
+        <file>motif/rosee.png</file>
+        <file>general/groupe.png</file>
+        <file>motif/fondgrpA.png</file>
+        <file>motif/fondgrpB.png</file>
+        <file>motif/fondgrp.png</file>
+        <file>motif/fondgrpC.png</file>
+    </qresource>
+</RCC>

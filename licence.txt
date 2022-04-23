@@ -1,0 +1,2 @@
+Ce composant est utilisable suivant les conditions de la licence GPL V3 :
+https://www.gnu.org/licenses/quick-guide-gplv3.fr.html

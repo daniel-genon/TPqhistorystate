@@ -1,0 +1,5 @@
+
+Projet d'études comprenant les composants pour apprendre une programmation de base avec le framework QtStateMachine de QT. Le texte d'apprentissage est disponible ici : https://qt.developpez.com/
+Ces composants mettent en œuvre des exemples de logiciels rudimentaires. Pour les utiliser vous devez maîtriser le langage C++ et un minimum des bibliothèques QT.
+
+Daniel Génon
