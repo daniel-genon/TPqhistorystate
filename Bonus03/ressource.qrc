@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>declencheur.png</file>
+    </qresource>
+</RCC>
